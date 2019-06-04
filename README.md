@@ -29,7 +29,3 @@ node app.js
 cd client
 npm start
 ```
-
-## Development
-On the backend section I sought help from a friend to build the app. I did the frontend
-section and added the backend section together with the Mongodb database.
